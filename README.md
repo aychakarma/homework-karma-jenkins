@@ -1,2 +1,2 @@
 # homework-karma-jenkins
-je testes karmaaaa
+je testes
