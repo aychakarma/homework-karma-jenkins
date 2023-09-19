@@ -1,2 +1,2 @@
 # homework-karma-jenkins
-je testeshh
+je tdd
