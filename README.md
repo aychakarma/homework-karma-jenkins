@@ -1,2 +1,2 @@
 # homework-karma-jenkins
-je testes
+je testes le build automatique
